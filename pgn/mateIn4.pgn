@@ -1,0 +1,12 @@
+[Event "Chapter 26"]
+[Site "Game 115"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 26"]
+[Black "Game 115"]
+[Result "*"]
+[FEN "r3kb2/ppp3pr/4bp1p/8/P2QNnqB/1P6/2P2PPP/1N1RR1K1 w q - 0 1"]
+[SetUp "1"]
+
+1.Qd7+ Bxd7 2.Nd6+ Kd8 3.Nf7+ Kc8 4.Re8+ Bxe8 5.Rd8# *
+
